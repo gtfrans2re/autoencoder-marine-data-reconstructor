@@ -34,7 +34,7 @@ The model utilizes a symmetrical encoder-decoder structure with 335,747 total pa
     * **EarlyStopping:** Stopped training at epoch 73 to prevent overfitting.
     * **ReduceLROnPlateau:** Halved learning rate after 5 epochs of stagnation.
 
-## 📊 Evaluation & Results
+## Evaluation & Results
 The model achieved a stable convergence with a final validation loss of **0.003324**.
 
 ### 1. Visual Reconstruction
